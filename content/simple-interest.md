@@ -6,13 +6,15 @@
 
 $$ SI = p \times r \times t $$
 
-$\begin{equation}
+$
+\begin{equation}
 \begin{split}
 \text {где } p & = \text{principal - сумма займа или сумма депозита} \\
-r & = \text{interest rate - процентная ставка (годовая)} \\
-t & = \text{time in years - количество лет} \\
+             r & = \text{interest rate - процентная ставка (годовая)} \\
+             t & = \text{time in years - количество лет} \\
 \end{split}
-\end{equation}$
+\end{equation}
+$
 
 $$A = p + SI = p \times (1 + r\cdot t)$$
 
